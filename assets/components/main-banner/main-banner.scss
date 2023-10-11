@@ -1,0 +1,18 @@
+.main-banner {
+    padding: 20px 10px;
+
+    @media #{$mobile} {
+        min-height: 147px;
+    }
+
+    @media #{$noMobile} {
+        min-height: 301px;
+    }
+
+    &__img {
+        display: block;
+        max-width: 900px;
+        width: 100%;
+        margin: 0 auto;
+    }
+}
