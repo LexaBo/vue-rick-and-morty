@@ -13,3 +13,6 @@ yarn install
 Start the development server on `http://localhost:3000`:
 
 yarn dev
+
+
+https://lexabo.github.io/vue-rick-and-morty/
